@@ -6,12 +6,13 @@
 
 ### Postman API Documentation: https://documenter.getpostman.com/view/15226030/2sA2r813mh
 
-### User Role Based Authentication: (Buyer and Seller)
+### User Role Based Authentication: Login Info
 
-1. **Buyer: (default user)**
-   email: buyer@gmail.com
-   password: buyer@gmail.com
+1. **Buyer:** (default user)
 
-2. **Seller: (admin)**
-   email: seller@gmail.com
-   password: seller@gmail.com
+   - email: buyer@gmail.com
+   - password: buyer@gmail.com
+
+2. **Seller:** (admin)
+   - email: seller@gmail.com
+   - password: seller@gmail.com
